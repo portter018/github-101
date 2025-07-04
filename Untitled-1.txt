@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>ประเภทของเครื่องแม่ข่าย</title>
+</head>
+<body>
+  <h1>ประเภทของเครื่องแม่ข่ายในระบบเครือข่ายคอมพิวเตอร์</h1>
+
+  <h2>1. Web Server (เว็บเซิร์ฟเวอร์)</h2>
+  <p><strong>หน้าที่:</strong> ให้บริการเว็บไซต์ผ่าน HTTP/HTTPS</p>
+  <p><strong>ซอฟต์แวร์:</strong> Apache, Nginx, IIS</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Apache_HTTP_server_logo_%28square%29.svg" width="150">
+
+  <h2>2. File Server (ไฟล์เซิร์ฟเวอร์)</h2>
+  <p><strong>หน้าที่:</strong> ให้บริการจัดเก็บและแบ่งปันไฟล์</p>
+  <p><strong>ซอฟต์แวร์:</strong> Samba, Windows Server, TrueNAS</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Server-icon.svg" width="150">
+
+  <h2>3. Authentication Server (เซิร์ฟเวอร์ยืนยันตัวตน)</h2>
+  <p><strong>หน้าที่:</strong> ตรวจสอบสิทธิ์การใช้งานของผู้ใช้</p>
+  <p><strong>ซอฟต์แวร์:</strong> Active Directory, OpenLDAP, FreeIPA</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Active_Directory_Domain_Services_logo.png" width="150">
+</body>
+</html>
